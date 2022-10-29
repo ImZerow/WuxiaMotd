@@ -1,0 +1,6 @@
+name: WuxiaMotd
+version: '${project.version}'
+main: dev.me.zennyel.Motd
+load: STARTUP
+authors: [ Zennyel ]
+description: plugin simples de motd criado para o Wuxiamc
